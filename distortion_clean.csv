@@ -1,0 +1,9 @@
+"tiktok.length.usage","tiktok.weekly.usage","tiktok.daily.usage","age","gender","group","perceived.time","actual.time","time.distortion"
+"Less than 6 months","2 - 3 times a week","Less than 30 minutes",22,"Female","without clock",10,12,0.833333333
+"1 - 2 years","More than 6 times a week","1 hour",20,"Female","with clock",23,15,1.533333333
+"1 - 2 years","More than 6 times a week","3 - 4 hours",20,"Female","without clock",15,11,1.363636364
+"6 months - 1 year","More than 6 times a week","1 hour",20,"Female","without clock",13,13.5,0.962962963
+"1 - 2 years","4 - 5 times a week","1 - 2 hours",21,"Male","with clock",20,17,1.176470588
+"6 months - 1 year","More than 6 times a week","1 - 2 hours",22,"Female","without clock",5,7.5,0.666666667
+"6 months - 1 year","2 - 3 times a week","1 - 2 hours",20,"Female","without clock",10,8,1.25
+"Less than 6 months","4 - 5 times a week","1 hour",22,"Female","with clock",8,10,0.8
